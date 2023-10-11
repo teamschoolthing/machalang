@@ -15,3 +15,12 @@ ippo macha (a+b==5) {
 }
 bye macha
 ```
+
+## Run Code
+First create a file or directly change index.macha in this machaLang folder. To run the file, enter into the terminal:
+```
+node index.js test.macha
+```
+
+## Manipulating Syntax
+If you want to change the machaLang syntax, just change syntax.json and run the code in the same way shown in the previous section.
