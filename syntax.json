@@ -1,0 +1,31 @@
+{
+  "interpretationTriggers": {
+    "start": "hi macha",
+    "end": "bye macha"
+  },
+  "printStatement": "padi macha",
+  "conditionals": {
+    "if": "ippo macha",
+    "else": "illana macha"
+  },
+  "variableDeclaration": "eduthuko macha",
+  "comments": "//",
+  "boolean": {
+    "true": "ama",
+    "false": "poi"
+  },
+  "nullValue": "onnum illa",
+  "processDescriptors": {
+    "errors": {
+      "spellCheck": "spelling check pannu macha",
+      "nonDescript": "ayyo macha :( error:"
+    },
+    "interpretationNotice": "pannitu iruken macha...",
+    "success": "wow macha!"
+  },
+  "languageDescriptors": {
+    "fileExtention": "macha",
+    "languageName": "machaLang",
+    "languagePointers": "macha"
+  }
+}

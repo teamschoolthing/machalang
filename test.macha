@@ -1,6 +1,6 @@
 hi macha
 eduthuko macha a = 2
-eduthuko macha b = 3
+eduthuko macha b = ama
 
 ippo macha (a+b==5) {
     padi macha "5 is the answer"
