@@ -1,6 +1,7 @@
 # machaLang
 
-The best programming language in the world.
+The ~~most useless~~ best programming language in the world.
+(its not even a programming language, just a JS wrapper but shhhhh)
 
 Example Code: 
 ```java
